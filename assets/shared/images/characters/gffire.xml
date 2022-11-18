@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gffire.png">
+	<!-- Created with Adobe Animate version 19.1.0.349 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="idle0000" x="0" y="0" width="526" height="515" frameX="-24" frameY="-33" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0001" x="0" y="0" width="526" height="515" frameX="-24" frameY="-33" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0002" x="0" y="0" width="526" height="515" frameX="-24" frameY="-33" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0003" x="0" y="515" width="513" height="489" frameX="-39" frameY="-56" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0004" x="0" y="515" width="513" height="489" frameX="-39" frameY="-56" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0005" x="0" y="515" width="513" height="489" frameX="-39" frameY="-56" frameWidth="553" frameHeight="550"/>
+	<SubTexture name="idle0006" x="0" y="1004" width="553" height="550"/>
+	<SubTexture name="idle0007" x="0" y="1004" width="553" height="550"/>
+	<SubTexture name="idle0008" x="0" y="1004" width="553" height="550"/>
+</TextureAtlas>
