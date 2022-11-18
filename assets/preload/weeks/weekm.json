@@ -1,0 +1,50 @@
+{
+	"storyName": "midnight",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "mickey",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"accidental",
+			"mickey1",
+			[
+				60,
+				60,
+				60
+			]
+		],
+		[
+			"arrhythmia",
+			"mickey2",
+			[
+				40,
+				40,
+				40
+			]
+		],
+		[
+			"curtain call",
+			"mickey31",
+			[
+				20,
+				20,
+				20
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
+}
