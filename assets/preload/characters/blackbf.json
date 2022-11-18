@@ -1,0 +1,188 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				1
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "BF dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-63,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "BF Dead Loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-43,
+				-1
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "BF Dead confirm",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-87,
+				74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-69,
+				73
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-80,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "Dwon0"
+		},
+		{
+			"offsets": [
+				-106,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "Up0"
+		},
+		{
+			"offsets": [
+				-84,
+				71
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				-71,
+				20
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-47,
+				76
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-104,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-86,
+				75
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				150
+			],
+			"anim": "at",
+			"fps": 24,
+			"name": "hurt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-64,
+				80
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "dodge",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-110,
+				75
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Hey",
+			"loop": false,
+			"name": "hey"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/blackbf",
+	"position": [
+		0,
+		370
+	],
+	"healthicon": "blackbf",
+	"flip_x": true,
+	"healthbar_colors": [
+		38,
+		42,
+		42
+	],
+	"camera_position": [
+		0,
+		-20
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

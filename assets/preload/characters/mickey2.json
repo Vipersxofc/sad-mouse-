@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-434,
+				-70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				-431,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-441,
+				-92
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-390,
+				15
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-442,
+				-86
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-440,
+				-62
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "Right0"
+		},
+		{
+			"offsets": [
+				-418,
+				-79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "Down0"
+		},
+		{
+			"offsets": [
+				-349,
+				-63
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "Left0"
+		},
+		{
+			"offsets": [
+				-386,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "Up0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/mickey2",
+	"position": [
+		-500,
+		0
+	],
+	"healthicon": "mickey2",
+	"flip_x": false,
+	"healthbar_colors": [
+		30,
+		30,
+		30
+	],
+	"camera_position": [
+		590,
+		160
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
