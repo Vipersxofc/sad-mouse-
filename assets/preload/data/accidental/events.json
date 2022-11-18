@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "stageg",
+		"player1": "blackbf",
+		"player2": "mickey1",
+		"player3": null,
+		"events": [
+			[
+				112000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				116000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				124000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				128000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136000,
+				[
+					[
+						"black out",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "BWsplash",
+		"validScore": false,
+		"gfVersion": "text",
+		"bpm": 120,
+		"arrowSkin": "BWnote",
+		"needsVoices": true,
+		"song": "accidental"
+	}
+}
